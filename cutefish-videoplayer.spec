@@ -9,7 +9,7 @@
 Name: cutefish-%{component_name}
 Version: 0.5
 #Version: 0.0.0git.%{git_refspec}
-Release: 0a.extra
+Release: 1a.extra
 License: GPLv3
 Summary: Cutefish Video Player
 
